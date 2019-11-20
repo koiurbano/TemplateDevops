@@ -1,4 +1,2 @@
-# Templete
-# Templete_Koiurbano
-# Templete
-# Dev
+# Template_Devops
+# TemDevops
