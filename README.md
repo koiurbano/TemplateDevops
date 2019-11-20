@@ -1,2 +1,0 @@
-# Template_Devops
-# TemDevops
